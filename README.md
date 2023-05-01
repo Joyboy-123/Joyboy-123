@@ -5,7 +5,7 @@
 - Making a difference in the community
 
 ## Frontend 
-* HTML, CSS, JAVASCRIPT, REACT, Material UI, Chakra-UI
+* HTML, CSS, JAVASCRIPT, REACT, Material UI
 
 
 
